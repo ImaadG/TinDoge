@@ -99,7 +99,14 @@ p {
     /* position: static; */
     position: absolute;
     right: 30%;
-
+    border: solid 8px red;
+    border-radius: 40px;
+    /* you need to match the shadow color to your background or image border for the desired effect*/
+    /* border: solid 10px #FF4C68; */
+    /* background: #73AD21; */
+    /* padding: 20px; */
+    /* width: 200px; */
+    /* height: 150px; */
 }
 
 /* Features */
